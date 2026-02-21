@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="landing-page">
+      <div class="rectangle"></div>
+      <div class="div"></div>
+      <div class="text-wrapper">Sign In</div>
+      <div class="text-wrapper-2">Bantuan</div>
+      <div class="text-wrapper-3">Sign Up</div>
+      <div class="group">
+        <div class="rectangle-2"></div>
+        <div class="text-wrapper-4">Jasa Unbind</div>
+        <div class="text-wrapper-5">Jasa Pemulihan Akun Game</div>
+        <p class="p">Jasa Pemulihan Akun Sosial Media</p>
+        <div class="text-wrapper-6">Jasa Ketik</div>
+      </div>
+      <div class="text-wrapper-7">Jasa Pembuatan PPT</div>
+      <div class="text-wrapper-8">Jasa Perapian Dokumen</div>
+      <div class="text-wrapper-9">Templat PPT Interaktif</div>
+      <p class="text-wrapper-10">E Book Pemulihan dan Unbind</p>
+      <img class="Gambarkantor" src="Gambarkantor.png" />
+      <img class="Bantuan" src="Bantuan.png" />
+      <p class="produk-jasa-digital">Produk &amp; Jasa Digital untuk Anda.</p>
+      <div class="group-2">
+        <div class="rectangle-3"></div>
+        <div class="rectangle-4"></div>
+        <img class="logo-holly-group" src="Holly.png" />
+        <div class="text-wrapper-11">Tentang Holly.</div>
+        <div class="text-wrapper-12">Follow Kami di</div>
+        <div class="produk-jasa">Produk &amp; Jasa</div>
+        <div class="text-wrapper-13">Cara Pesan</div>
+        <div class="text-wrapper-14">Jasa Unbind</div>
+        <div class="text-wrapper-15">Jasa Pemulihan Akun Game</div>
+        <p class="text-wrapper-16">Jasa Pemulihan Akun Sosial Media</p>
+        <div class="text-wrapper-17">Jasa Ketik</div>
+        <div class="text-wrapper-18">Jasa Pembuatan PPT</div>
+        <div class="text-wrapper-19">Jasa Perapian Dokumen</div>
+        <div class="text-wrapper-20">Templat PPT Interaktif</div>
+        <p class="text-wrapper-21">E Book Pemulihan dan Unbind.</p>
+        <div class="text-wrapper-22">Hubungi Kami</div>
+        <div class="text-wrapper-23">Customer Service</div>
+        <div class="text-wrapper-24">Pusat Bantuan</div>
+        <div class="text-wrapper-25">Tentang Kami</div>
+        <div class="text-wrapper-26">Facebook</div>
+        <div class="text-wrapper-27">Instagram</div>
+        <div class="text-wrapper-28">TikTok</div>
+        <div class="text-wrapper-29">Youtube</div>
+      </div>
+      <div class="rectangle-5"></div>
+      <div class="rectangle-6"></div>
+      <div class="rectangle-7"></div>
+      <img class="img" src="Rectangle 9.png" />
+      <div class="text-wrapper-30">Best Seller</div>
+      <div class="text-wrapper-31">Jasa Unbind All Game</div>
+      <div class="dimulai-dari-rp">Dimulai dari<br />Rp 50.000.</div>
+      <div class="rectangle-8"></div>
+      <p class="text-wrapper-32">Jasa Pemulihan Akun Sosial Media.</p>
+      <div class="dimulai-dari">Dimulai dari<br />50.000.</div>
+      <p class="text-wrapper-33">Copyright © 2025 Holly. All rights reserved</p>
+    </div>
+    <script src="auth.js"></script>
+  </body>
+</html>
